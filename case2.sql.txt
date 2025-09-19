@@ -174,3 +174,4 @@ ORDER BY Fark DESC;
 -- 3. Genel ortalama stokta kalma süresi
 SELECT AVG(DaysOnMarket) AS GenelOrtalamaStokSuresi
 FROM UsedVehicles;
+
